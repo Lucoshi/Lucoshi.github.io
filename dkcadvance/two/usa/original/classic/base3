@@ -12,6 +12,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 </script>
 
     <script language="JavaScript" type="text/javascript">
+    <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
     <!-- Begin ESRB pop-up
     function popUp(URL) {
     day = new Date();
